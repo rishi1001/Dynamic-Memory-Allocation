@@ -1,3 +1,5 @@
+## Refer to `assignment.pdf` for details.
+
 ## Using makefile
 ```make all```
 
